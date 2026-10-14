@@ -1,0 +1,61 @@
+# Unity-generated data (keep this file beside Assets, Packages and ProjectSettings)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/ExportedObj/
+
+# Local IDE and build-tool caches
+/.vs/
+/.idea/
+/.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Build artifacts and project-package downloads
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+/KitchenCost_Portfolio_Package.zip
+
+# Signing credentials and local environment configuration
+*.keystore
+*.keystore.meta
+*.jks
+*.jks.meta
+.env
+.env.*
+!.env.example
+
+# Local reports and operating-system files
+*.log
+sysinfo.txt
+mono_crash.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Assets (including .meta files), Packages and ProjectSettings stay tracked.
+# The curated portfolio media under docs/ is intentionally included.
+/KitchenCost_BurstDebugInformation_DoNotShip/
